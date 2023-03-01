@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/alphaback92/react-user-login-interface.git/static/css/main.f06474ab.css",
+    "main.js": "/alphaback92/react-user-login-interface.git/static/js/main.b1892796.js",
+    "index.html": "/alphaback92/react-user-login-interface.git/index.html",
+    "main.f06474ab.css.map": "/alphaback92/react-user-login-interface.git/static/css/main.f06474ab.css.map",
+    "main.b1892796.js.map": "/alphaback92/react-user-login-interface.git/static/js/main.b1892796.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f06474ab.css",
+    "static/js/main.b1892796.js"
+  ]
+}
